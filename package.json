@@ -1,0 +1,19 @@
+{
+  "name": "epitech-header",
+  "main": "./lib/epitech-header",
+  "version": "0.0.5",
+  "description": "Atom header epitech package dev by guerin_g",
+  "keywords": [
+    "Epitech",
+    "Header"
+  ],
+  "activationCommands": {
+    "atom-workspace": "epitech-header:convert"
+  },
+  "repository": "https://github.com/Lyliya/epitech_header",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle epitech-header",
+        "command": "epitech-header:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "epitech-header",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "epitech-header:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
