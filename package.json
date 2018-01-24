@@ -1,7 +1,7 @@
 {
   "name": "epitech-header",
   "main": "./lib/epitech-header",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Atom header epitech 2017 package by guerin_g",
   "keywords": [
     "Epitech",
