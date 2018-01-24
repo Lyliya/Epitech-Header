@@ -2,7 +2,7 @@
   "name": "epitech-header",
   "main": "./lib/epitech-header",
   "version": "0.2.0",
-  "description": "Atom header epitech package dev by guerin_g",
+  "description": "Atom header epitech 2017 package by guerin_g",
   "keywords": [
     "Epitech",
     "Header"
@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "epitech-header:convert"
   },
-  "repository": "https://github.com/Lyliya/epitech_header",
+  "repository": "https://github.com/Lyliya/Epitech-Header",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
